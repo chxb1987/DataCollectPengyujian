@@ -1,0 +1,835 @@
+D:\2015.1.14技术文档-设计-新建-华中8型数控系统二次开发平台V1.10-江哲夫\hncsdk_V1.10.00\demos\demo_C#\demo\bin\Debug\demo.exe
+D:\2015.1.14技术文档-设计-新建-华中8型数控系统二次开发平台V1.10-江哲夫\hncsdk_V1.10.00\demos\demo_C#\demo\bin\Debug\demo.pdb
+D:\2015.1.14技术文档-设计-新建-华中8型数控系统二次开发平台V1.10-江哲夫\hncsdk_V1.10.00\demos\demo_C#\demo\obj\x86\Debug\demo.FormMain.resources
+D:\2015.1.14技术文档-设计-新建-华中8型数控系统二次开发平台V1.10-江哲夫\hncsdk_V1.10.00\demos\demo_C#\demo\obj\x86\Debug\demo.IpEnter.resources
+D:\2015.1.14技术文档-设计-新建-华中8型数控系统二次开发平台V1.10-江哲夫\hncsdk_V1.10.00\demos\demo_C#\demo\obj\x86\Debug\demo.Properties.Resources.resources
+D:\2015.1.14技术文档-设计-新建-华中8型数控系统二次开发平台V1.10-江哲夫\hncsdk_V1.10.00\demos\demo_C#\demo\obj\x86\Debug\demo.UserControlParaman.resources
+D:\2015.1.14技术文档-设计-新建-华中8型数控系统二次开发平台V1.10-江哲夫\hncsdk_V1.10.00\demos\demo_C#\demo\obj\x86\Debug\demo.UserControlReg.resources
+D:\2015.1.14技术文档-设计-新建-华中8型数控系统二次开发平台V1.10-江哲夫\hncsdk_V1.10.00\demos\demo_C#\demo\obj\x86\Debug\demo.UserControlTest.resources
+D:\2015.1.14技术文档-设计-新建-华中8型数控系统二次开发平台V1.10-江哲夫\hncsdk_V1.10.00\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.GenerateResource.Cache
+D:\2015.1.14技术文档-设计-新建-华中8型数控系统二次开发平台V1.10-江哲夫\hncsdk_V1.10.00\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+D:\2015.1.14技术文档-设计-新建-华中8型数控系统二次开发平台V1.10-江哲夫\hncsdk_V1.10.00\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+D:\2015.1.14技术文档-设计-新建-华中8型数控系统二次开发平台V1.10-江哲夫\hncsdk_V1.10.00\demos\demo_C#\demo\bin\Debug\HncNetData.dll
+D:\2015.1.14技术文档-设计-新建-华中8型数控系统二次开发平台V1.10-江哲夫\hncsdk_V1.10.00\demos\demo_C#\demo\bin\Debug\HncNetDll.dll
+C:\Users\Administrator\Desktop\2015.1.14技术文档-设计-新建-华中8型数控系统二次开发平台V1.10-江哲夫\hncsdk_V1.10.00\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+C:\Users\Administrator\Desktop\2015.1.14技术文档-设计-新建-华中8型数控系统二次开发平台V1.10-江哲夫\hncsdk_V1.10.00\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+F:\buaa course resourse\项目文件20150703A106新版\华中数控资料1223\相关资料_64979\华中8型数控系统二次开发平台V1.10\hncsdk_V1.10.00\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+F:\buaa course resourse\项目文件20150703A106新版\华中数控资料1223\相关资料_64979\华中8型数控系统二次开发平台V1.10\hncsdk_V1.10.00\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+F:\learning\VS test\DNC_hz\hncsdk_V1.10.00\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+F:\learning\VS test\DNC_hz\hncsdk_V1.10.00\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+F:\learning\VS test\DNC_hz\hncsdk_V1.10.00\demos\demo_C#\demo\bin\Debug\demo.exe
+F:\learning\VS test\DNC_hz\hncsdk_V1.10.00\demos\demo_C#\demo\bin\Debug\demo.pdb
+F:\learning\VS test\DNC_hz\hncsdk_V1.10.00\demos\demo_C#\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\learning\VS test\DNC_hz\hncsdk_V1.10.00\demos\demo_C#\demo\obj\x86\Debug\demo.FormMain.resources
+F:\learning\VS test\DNC_hz\hncsdk_V1.10.00\demos\demo_C#\demo\obj\x86\Debug\demo.IpEnter.resources
+F:\learning\VS test\DNC_hz\hncsdk_V1.10.00\demos\demo_C#\demo\obj\x86\Debug\demo.Properties.Resources.resources
+F:\learning\VS test\DNC_hz\hncsdk_V1.10.00\demos\demo_C#\demo\obj\x86\Debug\demo.UserControlParaman.resources
+F:\learning\VS test\DNC_hz\hncsdk_V1.10.00\demos\demo_C#\demo\obj\x86\Debug\demo.UserControlReg.resources
+F:\learning\VS test\DNC_hz\hncsdk_V1.10.00\demos\demo_C#\demo\obj\x86\Debug\demo.UserControlTest.resources
+F:\learning\VS test\DNC_hz\hncsdk_V1.10.00\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\learning\VS test\DNC_hz\hncsdk_V1.10.00\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\learning\VS test\DNC_hz\dnc_1.0\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+F:\learning\VS test\DNC_hz\dnc_1.0\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+F:\learning\VS test\DNC_hz\dnc_1.0\demos\demo_C#\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\learning\VS test\DNC_hz\dnc_1.0\demos\demo_C#\demo\obj\x86\Debug\demo.FormMain.resources
+F:\learning\VS test\DNC_hz\dnc_1.0\demos\demo_C#\demo\obj\x86\Debug\demo.IpEnter.resources
+F:\learning\VS test\DNC_hz\dnc_1.0\demos\demo_C#\demo\obj\x86\Debug\demo.Properties.Resources.resources
+F:\learning\VS test\DNC_hz\dnc_1.0\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\learning\VS test\DNC_hz\dnc_1.0\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\learning\VS test\DNC_hz\dnc_1.0\demos\demo_C#\demo\bin\Debug\demo.exe
+F:\learning\VS test\DNC_hz\dnc_1.0\demos\demo_C#\demo\bin\Debug\demo.pdb
+F:\learning\VS test\DNC_hz\dnc_1.0\demos\demo_C#\demo\obj\x86\Debug\demo.Conected_Line.resources
+F:\learning\VS test\DNC_hz\dnc_1.0.1\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+F:\learning\VS test\DNC_hz\dnc_1.0.1\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+F:\learning\VS test\DNC_hz\dnc_1.0.1\demos\demo_C#\demo\bin\Debug\demo.exe
+F:\learning\VS test\DNC_hz\dnc_1.0.1\demos\demo_C#\demo\bin\Debug\demo.pdb
+F:\learning\VS test\DNC_hz\dnc_1.0.1\demos\demo_C#\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\learning\VS test\DNC_hz\dnc_1.0.1\demos\demo_C#\demo\obj\x86\Debug\demo.Conected_Line.resources
+F:\learning\VS test\DNC_hz\dnc_1.0.1\demos\demo_C#\demo\obj\x86\Debug\demo.FormMain.resources
+F:\learning\VS test\DNC_hz\dnc_1.0.1\demos\demo_C#\demo\obj\x86\Debug\demo.IpEnter.resources
+F:\learning\VS test\DNC_hz\dnc_1.0.1\demos\demo_C#\demo\obj\x86\Debug\demo.Properties.Resources.resources
+F:\learning\VS test\DNC_hz\dnc_1.0.1\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\learning\VS test\DNC_hz\dnc_1.0.1\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\learning\VS test\DNC_hz\dnc_1.0.1\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Status_Form.resources
+F:\learning\VS test\DNC_hz\dnc_1.0.1\demos\demo_C#\demo\obj\x86\Debug\demo.User_Control1.resources
+F:\learning\VS test\DNC_hz\dnc_1.0.1\demos\demo_C#\demo\obj\x86\Debug\demo.Form1.resources
+F:\learning\VS test\DNC_hz\dnc_2.0\demos\demo_C#\demo\bin\Debug\demo.exe
+F:\learning\VS test\DNC_hz\dnc_2.0\demos\demo_C#\demo\bin\Debug\demo.pdb
+F:\learning\VS test\DNC_hz\dnc_2.0\demos\demo_C#\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\learning\VS test\DNC_hz\dnc_2.0\demos\demo_C#\demo\obj\x86\Debug\demo.Conected_Line.resources
+F:\learning\VS test\DNC_hz\dnc_2.0\demos\demo_C#\demo\obj\x86\Debug\demo.Form1.resources
+F:\learning\VS test\DNC_hz\dnc_2.0\demos\demo_C#\demo\obj\x86\Debug\demo.FormMain.resources
+F:\learning\VS test\DNC_hz\dnc_2.0\demos\demo_C#\demo\obj\x86\Debug\demo.IpEnter.resources
+F:\learning\VS test\DNC_hz\dnc_2.0\demos\demo_C#\demo\obj\x86\Debug\demo.NC_status.resources
+F:\learning\VS test\DNC_hz\dnc_2.0\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Status_Form.resources
+F:\learning\VS test\DNC_hz\dnc_2.0\demos\demo_C#\demo\obj\x86\Debug\demo.Properties.Resources.resources
+F:\learning\VS test\DNC_hz\dnc_2.0\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\learning\VS test\DNC_hz\dnc_2.0\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\learning\VS test\DNC_hz\dnc_2.0\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+F:\learning\VS test\DNC_hz\dnc_2.0\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+F:\learning\VS test\DNC_hz\dnc_2.1\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+F:\learning\VS test\DNC_hz\dnc_2.1\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+F:\learning\VS test\DNC_hz\dnc_2.1\demos\demo_C#\demo\bin\Debug\demo.exe
+F:\learning\VS test\DNC_hz\dnc_2.1\demos\demo_C#\demo\bin\Debug\demo.pdb
+F:\learning\VS test\DNC_hz\dnc_2.1\demos\demo_C#\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\learning\VS test\DNC_hz\dnc_2.1\demos\demo_C#\demo\obj\x86\Debug\demo.Conected_Line.resources
+F:\learning\VS test\DNC_hz\dnc_2.1\demos\demo_C#\demo\obj\x86\Debug\demo.Form1.resources
+F:\learning\VS test\DNC_hz\dnc_2.1\demos\demo_C#\demo\obj\x86\Debug\demo.FormMain.resources
+F:\learning\VS test\DNC_hz\dnc_2.1\demos\demo_C#\demo\obj\x86\Debug\demo.IpEnter.resources
+F:\learning\VS test\DNC_hz\dnc_2.1\demos\demo_C#\demo\obj\x86\Debug\demo.NC_status.resources
+F:\learning\VS test\DNC_hz\dnc_2.1\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Status_Form.resources
+F:\learning\VS test\DNC_hz\dnc_2.1\demos\demo_C#\demo\obj\x86\Debug\demo.Properties.Resources.resources
+F:\learning\VS test\DNC_hz\dnc_2.1\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\learning\VS test\DNC_hz\dnc_2.1\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\learning\VS test\DNC_hz\dnc_2.1\demos\demo_C#\demo\obj\x86\Debug\demo.Findlimit.resources
+F:\learning\VS test\DNC_hz\dnc_2.2\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+F:\learning\VS test\DNC_hz\dnc_2.2\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+F:\learning\VS test\DNC_hz\dnc_2.2\demos\demo_C#\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\learning\VS test\DNC_hz\dnc_2.2\demos\demo_C#\demo\obj\x86\Debug\demo.Conected_Line.resources
+F:\learning\VS test\DNC_hz\dnc_2.2\demos\demo_C#\demo\obj\x86\Debug\demo.Findlimit.resources
+F:\learning\VS test\DNC_hz\dnc_2.2\demos\demo_C#\demo\obj\x86\Debug\demo.Form1.resources
+F:\learning\VS test\DNC_hz\dnc_2.2\demos\demo_C#\demo\obj\x86\Debug\demo.FormMain.resources
+F:\learning\VS test\DNC_hz\dnc_2.2\demos\demo_C#\demo\obj\x86\Debug\demo.IpEnter.resources
+F:\learning\VS test\DNC_hz\dnc_2.2\demos\demo_C#\demo\obj\x86\Debug\demo.NC_status.resources
+F:\learning\VS test\DNC_hz\dnc_2.2\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Status_Form.resources
+F:\learning\VS test\DNC_hz\dnc_2.2\demos\demo_C#\demo\obj\x86\Debug\demo.Properties.Resources.resources
+F:\learning\VS test\DNC_hz\dnc_2.2\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\learning\VS test\DNC_hz\dnc_2.2\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\learning\VS test\DNC_hz\dnc_2.2\demos\demo_C#\demo\bin\Debug\demo.exe
+F:\learning\VS test\DNC_hz\dnc_2.2\demos\demo_C#\demo\bin\Debug\demo.pdb
+F:\DNC_2016\dnc_2.3\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+F:\DNC_2016\dnc_2.3\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+F:\DNC_2016\dnc_2.3\demos\demo_C#\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\DNC_2016\dnc_2.3\demos\demo_C#\demo\obj\x86\Debug\demo.Conected_Line.resources
+F:\DNC_2016\dnc_2.3\demos\demo_C#\demo\obj\x86\Debug\demo.FormMain.resources
+F:\DNC_2016\dnc_2.3\demos\demo_C#\demo\obj\x86\Debug\demo.IpEnter.resources
+F:\DNC_2016\dnc_2.3\demos\demo_C#\demo\obj\x86\Debug\demo.NC_status.resources
+F:\DNC_2016\dnc_2.3\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Status_Form.resources
+F:\DNC_2016\dnc_2.3\demos\demo_C#\demo\obj\x86\Debug\demo.Properties.Resources.resources
+F:\DNC_2016\dnc_2.3\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\DNC_2016\dnc_2.3\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\DNC_2016\dnc_2.3\demos\demo_C#\demo\bin\Debug\demo.exe
+F:\DNC_2016\dnc_2.3\demos\demo_C#\demo\bin\Debug\demo.pdb
+F:\DNC_2016\dnc_2.3\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.dll
+F:\DNC_2016\dnc_2.3\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.xml
+F:\DNC_2016\dnc_2.3\demos\demo_C#\demo\obj\x86\Debug\Interop.ECTOPOLOGYLib.dll
+F:\DNC_2016\dnc_2.3\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.ResolveComReference.cache
+F:\DNC_2016\dnc_2.3\demos\demo_C#\demo\obj\x86\Debug\demo.TwinCAT_ADS.resources
+F:\DNC_2016\dnc_2.4\demos\demo_C#\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\DNC_2016\dnc_2.4\demos\demo_C#\demo\obj\x86\Debug\Interop.ECTOPOLOGYLib.dll
+F:\DNC_2016\dnc_2.4\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.ResolveComReference.cache
+F:\DNC_2016\dnc_2.4\demos\demo_C#\demo\obj\x86\Debug\demo.Conected_Line.resources
+F:\DNC_2016\dnc_2.4\demos\demo_C#\demo\obj\x86\Debug\demo.StatusData_user.resources
+F:\DNC_2016\dnc_2.4\demos\demo_C#\demo\obj\x86\Debug\demo.Title_user.resources
+F:\DNC_2016\dnc_2.4\demos\demo_C#\demo\obj\x86\Debug\demo.TwinCAT_ADS.resources
+F:\DNC_2016\dnc_2.4\demos\demo_C#\demo\obj\x86\Debug\demo.FormMain.resources
+F:\DNC_2016\dnc_2.4\demos\demo_C#\demo\obj\x86\Debug\demo.IpEnter.resources
+F:\DNC_2016\dnc_2.4\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Status_Form.resources
+F:\DNC_2016\dnc_2.4\demos\demo_C#\demo\obj\x86\Debug\demo.Properties.Resources.resources
+F:\DNC_2016\dnc_2.4\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\DNC_2016\dnc_2.4\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\DNC_2016\dnc_2.4\demos\demo_C#\demo\bin\Debug\demo.exe
+F:\DNC_2016\dnc_2.4\demos\demo_C#\demo\bin\Debug\demo.pdb
+F:\DNC_2016\dnc_2.4\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.dll
+F:\DNC_2016\dnc_2.4\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.xml
+F:\DNC_2016\dnc_2.4\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+F:\DNC_2016\dnc_2.4\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+F:\DNC_2016\dnc_2.4\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Err_Log.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.3.7\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.ResolveComReference.cache
+F:\learning\VS test\DNC_hz\复件 dnc_2.3.7\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+F:\learning\VS test\DNC_hz\复件 dnc_2.3.7\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+F:\learning\VS test\DNC_hz\复件 dnc_2.3.7\demos\demo_C#\demo\bin\Debug\demo.exe
+F:\learning\VS test\DNC_hz\复件 dnc_2.3.7\demos\demo_C#\demo\bin\Debug\demo.pdb
+F:\learning\VS test\DNC_hz\复件 dnc_2.3.7\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.xml
+F:\learning\VS test\DNC_hz\复件 dnc_2.3.7\demos\demo_C#\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\learning\VS test\DNC_hz\复件 dnc_2.3.7\demos\demo_C#\demo\obj\x86\Debug\demo.Conected_Line.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.3.7\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Err_Log.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.3.7\demos\demo_C#\demo\obj\x86\Debug\demo.StatusData_user.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.3.7\demos\demo_C#\demo\obj\x86\Debug\demo.Title_user.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.3.7\demos\demo_C#\demo\obj\x86\Debug\demo.TwinCAT_ADS.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.3.7\demos\demo_C#\demo\obj\x86\Debug\demo.FormMain.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.3.7\demos\demo_C#\demo\obj\x86\Debug\demo.IpEnter.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.3.7\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Status_Form.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.3.7\demos\demo_C#\demo\obj\x86\Debug\demo.Properties.Resources.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.3.7\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\learning\VS test\DNC_hz\复件 dnc_2.3.7\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\learning\VS test\DNC_hz\复件 dnc_2.3.7\demos\demo_C#\demo\bin\Debug\demo.exe.config
+F:\learning\VS test\DNC_hz\复件 dnc_2.3.7\demos\demo_C#\demo\bin\Debug\mysql.visualstudio.dll
+F:\DNC_2016\复件 dnc_2.3.8\demos\demo_C#\demo\bin\Debug\demo.exe.config
+F:\DNC_2016\复件 dnc_2.3.8\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.ResolveComReference.cache
+F:\DNC_2016\复件 dnc_2.3.8\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+F:\DNC_2016\复件 dnc_2.3.8\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+F:\DNC_2016\复件 dnc_2.3.8\demos\demo_C#\demo\bin\Debug\demo.exe
+F:\DNC_2016\复件 dnc_2.3.8\demos\demo_C#\demo\bin\Debug\demo.pdb
+F:\DNC_2016\复件 dnc_2.3.8\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.dll
+F:\DNC_2016\复件 dnc_2.3.8\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.xml
+F:\DNC_2016\复件 dnc_2.3.8\demos\demo_C#\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\DNC_2016\复件 dnc_2.3.8\demos\demo_C#\demo\obj\x86\Debug\demo.Conected_Line.resources
+F:\DNC_2016\复件 dnc_2.3.8\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Err_Log.resources
+F:\DNC_2016\复件 dnc_2.3.8\demos\demo_C#\demo\obj\x86\Debug\demo.StatusData_user.resources
+F:\DNC_2016\复件 dnc_2.3.8\demos\demo_C#\demo\obj\x86\Debug\demo.Title_user.resources
+F:\DNC_2016\复件 dnc_2.3.8\demos\demo_C#\demo\obj\x86\Debug\demo.TwinCAT_ADS.resources
+F:\DNC_2016\复件 dnc_2.3.8\demos\demo_C#\demo\obj\x86\Debug\demo.FormMain.resources
+F:\DNC_2016\复件 dnc_2.3.8\demos\demo_C#\demo\obj\x86\Debug\demo.IpEnter.resources
+F:\DNC_2016\复件 dnc_2.3.8\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Status_Form.resources
+F:\DNC_2016\复件 dnc_2.3.8\demos\demo_C#\demo\obj\x86\Debug\demo.Properties.Resources.resources
+F:\DNC_2016\复件 dnc_2.3.8\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\DNC_2016\复件 dnc_2.3.8\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\DNC_2016\复件 dnc_2.3.9\demos\demo_C#\demo\bin\Debug\demo.exe.config
+F:\DNC_2016\复件 dnc_2.3.9\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.ResolveComReference.cache
+F:\DNC_2016\复件 dnc_2.3.9\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+F:\DNC_2016\复件 dnc_2.3.9\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+F:\DNC_2016\复件 dnc_2.3.9\demos\demo_C#\demo\bin\Debug\demo.exe
+F:\DNC_2016\复件 dnc_2.3.9\demos\demo_C#\demo\bin\Debug\demo.pdb
+F:\DNC_2016\复件 dnc_2.3.9\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.dll
+F:\DNC_2016\复件 dnc_2.3.9\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.xml
+F:\DNC_2016\复件 dnc_2.3.9\demos\demo_C#\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\DNC_2016\复件 dnc_2.3.9\demos\demo_C#\demo\obj\x86\Debug\demo.Conected_Line.resources
+F:\DNC_2016\复件 dnc_2.3.9\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Err_Log.resources
+F:\DNC_2016\复件 dnc_2.3.9\demos\demo_C#\demo\obj\x86\Debug\demo.StatusData_user.resources
+F:\DNC_2016\复件 dnc_2.3.9\demos\demo_C#\demo\obj\x86\Debug\demo.Title_user.resources
+F:\DNC_2016\复件 dnc_2.3.9\demos\demo_C#\demo\obj\x86\Debug\demo.TwinCAT_ADS.resources
+F:\DNC_2016\复件 dnc_2.3.9\demos\demo_C#\demo\obj\x86\Debug\demo.FormMain.resources
+F:\DNC_2016\复件 dnc_2.3.9\demos\demo_C#\demo\obj\x86\Debug\demo.IpEnter.resources
+F:\DNC_2016\复件 dnc_2.3.9\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Status_Form.resources
+F:\DNC_2016\复件 dnc_2.3.9\demos\demo_C#\demo\obj\x86\Debug\demo.Properties.Resources.resources
+F:\DNC_2016\复件 dnc_2.3.9\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\DNC_2016\复件 dnc_2.3.9\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\DNC_2016\复件 dnc_2.3.9\demos\demo_C#\demo\obj\x86\Debug\demo.frmAddnc.resources
+F:\DNC_2016\复件 dnc_2.4.0\demos\demo_C#\demo\bin\Debug\demo.exe.config
+F:\DNC_2016\复件 dnc_2.4.0\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.ResolveComReference.cache
+F:\DNC_2016\复件 dnc_2.4.0\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+F:\DNC_2016\复件 dnc_2.4.0\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0\demos\demo_C#\demo\bin\Debug\demo.exe.config
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.ResolveComReference.cache
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0\demos\demo_C#\demo\bin\Debug\demo.exe
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0\demos\demo_C#\demo\bin\Debug\demo.pdb
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0\demos\demo_C#\demo\bin\Debug\mysql.visualstudio.dll
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.xml
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0\demos\demo_C#\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0\demos\demo_C#\demo\obj\x86\Debug\demo.Conected_Line.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0\demos\demo_C#\demo\obj\x86\Debug\demo.frmAddnc.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0\demos\demo_C#\demo\obj\x86\Debug\demo.manageLine.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Err_Log.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0\demos\demo_C#\demo\obj\x86\Debug\demo.StatusData_user.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0\demos\demo_C#\demo\obj\x86\Debug\demo.Title_user.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0\demos\demo_C#\demo\obj\x86\Debug\demo.TwinCAT_ADS.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0\demos\demo_C#\demo\obj\x86\Debug\demo.FormMain.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0\demos\demo_C#\demo\obj\x86\Debug\demo.IpEnter.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Status_Form.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0\demos\demo_C#\demo\obj\x86\Debug\demo.Properties.Resources.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\DNC_2016\复件 dnc_2.4.0_win7\demos\demo_C#\demo\bin\Debug\demo.exe.config
+F:\DNC_2016\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.ResolveComReference.cache
+F:\DNC_2016\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+F:\DNC_2016\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0_win7\demos\demo_C#\demo\bin\Debug\demo.exe.config
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.ResolveComReference.cache
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+F:\DNC_2016\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\DNC_2016\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.Conected_Line.resources
+F:\DNC_2016\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.frmAddnc.resources
+F:\DNC_2016\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.manageLine.resources
+F:\DNC_2016\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Err_Log.resources
+F:\DNC_2016\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.StatusData_user.resources
+F:\DNC_2016\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.Title_user.resources
+F:\DNC_2016\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.TwinCAT_ADS.resources
+F:\DNC_2016\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.FormMain.resources
+F:\DNC_2016\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.IpEnter.resources
+F:\DNC_2016\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Status_Form.resources
+F:\DNC_2016\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.Properties.Resources.resources
+F:\DNC_2016\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\DNC_2016\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\DNC_2016\复件 dnc_2.4.0_win7\demos\demo_C#\demo\bin\Debug\demo.exe
+F:\DNC_2016\复件 dnc_2.4.0_win7\demos\demo_C#\demo\bin\Debug\demo.pdb
+F:\DNC_2016\复件 dnc_2.4.0_win7\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.dll
+F:\DNC_2016\复件 dnc_2.4.0_win7\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.xml
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.Conected_Line.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.frmAddnc.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.manageLine.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Err_Log.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.StatusData_user.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.Title_user.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.TwinCAT_ADS.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.FormMain.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.IpEnter.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Status_Form.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.Properties.Resources.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.0_win7\demos\demo_C#\demo\bin\Debug\demo.exe.config
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.ResolveComReference.cache
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.Conected_Line.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.frmAddnc.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.manageLine.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Err_Log.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.StatusData_user.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.Title_user.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.TwinCAT_ADS.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.FormMain.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.IpEnter.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Status_Form.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.Properties.Resources.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.0_win7\demos\demo_C#\demo\bin\Debug\demo.exe
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.0_win7\demos\demo_C#\demo\bin\Debug\demo.pdb
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.0_win7\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.dll
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.0_win7\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.xml
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.0_win7\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0_win7\demos\demo_C#\demo\bin\Debug\demo.exe
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0_win7\demos\demo_C#\demo\bin\Debug\demo.pdb
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0_win7\demos\demo_C#\demo\bin\Debug\mysql.visualstudio.dll
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.0_win7\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.xml
+F:\DNC_2016\复件 dnc_2.4.1\demos\demo_C#\demo\bin\Debug\demo.exe.config
+F:\DNC_2016\复件 dnc_2.4.1\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.ResolveComReference.cache
+F:\DNC_2016\复件 dnc_2.4.1\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+F:\DNC_2016\复件 dnc_2.4.1\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+F:\DNC_2016\复件 dnc_2.4.1\demos\demo_C#\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\DNC_2016\复件 dnc_2.4.1\demos\demo_C#\demo\obj\x86\Debug\demo.Conected_Line.resources
+F:\DNC_2016\复件 dnc_2.4.1\demos\demo_C#\demo\obj\x86\Debug\demo.frmAddnc.resources
+F:\DNC_2016\复件 dnc_2.4.1\demos\demo_C#\demo\obj\x86\Debug\demo.manageLine.resources
+F:\DNC_2016\复件 dnc_2.4.1\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Err_Log.resources
+F:\DNC_2016\复件 dnc_2.4.1\demos\demo_C#\demo\obj\x86\Debug\demo.StatusData_user.resources
+F:\DNC_2016\复件 dnc_2.4.1\demos\demo_C#\demo\obj\x86\Debug\demo.Title_user.resources
+F:\DNC_2016\复件 dnc_2.4.1\demos\demo_C#\demo\obj\x86\Debug\demo.TwinCAT_ADS.resources
+F:\DNC_2016\复件 dnc_2.4.1\demos\demo_C#\demo\obj\x86\Debug\demo.FormMain.resources
+F:\DNC_2016\复件 dnc_2.4.1\demos\demo_C#\demo\obj\x86\Debug\demo.IpEnter.resources
+F:\DNC_2016\复件 dnc_2.4.1\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Status_Form.resources
+F:\DNC_2016\复件 dnc_2.4.1\demos\demo_C#\demo\obj\x86\Debug\demo.Properties.Resources.resources
+F:\DNC_2016\复件 dnc_2.4.1\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\DNC_2016\复件 dnc_2.4.1\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\DNC_2016\复件 dnc_2.4.1\demos\demo_C#\demo\bin\Debug\demo.exe
+F:\DNC_2016\复件 dnc_2.4.1\demos\demo_C#\demo\bin\Debug\demo.pdb
+F:\DNC_2016\复件 dnc_2.4.1\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.dll
+F:\DNC_2016\复件 dnc_2.4.1\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.xml
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.1\demos\demo_C#\demo\bin\Debug\demo.exe.config
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.1\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.ResolveComReference.cache
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.1\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.1\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2\demos\demo_C#\demo\bin\Debug\demo.exe.config
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.ResolveComReference.cache
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2\demos\demo_C#\demo\bin\Debug\demo.exe
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2\demos\demo_C#\demo\bin\Debug\demo.pdb
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2\demos\demo_C#\demo\bin\Debug\mysql.visualstudio.dll
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.xml
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.Conected_Line.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.frmAddnc.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.manageLine.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Err_Log.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.StatusData_user.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.Title_user.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.TwinCAT_ADS.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.FormMain.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.IpEnter.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Status_Form.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.Properties.Resources.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2\demos\demo_C#\demo\bin\Debug\demo.exe.config
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.ResolveComReference.cache
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2\demos\demo_C#\demo\bin\Debug\demo.exe
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2\demos\demo_C#\demo\bin\Debug\demo.pdb
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.dll
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.xml
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.Conected_Line.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.frmAddnc.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.manageLine.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Err_Log.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.StatusData_user.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.Title_user.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.TwinCAT_ADS.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.FormMain.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.IpEnter.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Status_Form.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.Properties.Resources.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\DNC_2016\复件 dnc_2.4.2\demos\demo_C#\demo\bin\Debug\demo.exe.config
+F:\DNC_2016\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.ResolveComReference.cache
+F:\DNC_2016\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+F:\DNC_2016\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+F:\DNC_2016\复件 dnc_2.4.2\demos\demo_C#\demo\bin\Debug\demo.exe
+F:\DNC_2016\复件 dnc_2.4.2\demos\demo_C#\demo\bin\Debug\demo.pdb
+F:\DNC_2016\复件 dnc_2.4.2\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.dll
+F:\DNC_2016\复件 dnc_2.4.2\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.xml
+F:\DNC_2016\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\DNC_2016\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.Conected_Line.resources
+F:\DNC_2016\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.frmAddnc.resources
+F:\DNC_2016\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.manageLine.resources
+F:\DNC_2016\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Err_Log.resources
+F:\DNC_2016\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.StatusData_user.resources
+F:\DNC_2016\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.Title_user.resources
+F:\DNC_2016\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.TwinCAT_ADS.resources
+F:\DNC_2016\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.FormMain.resources
+F:\DNC_2016\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.IpEnter.resources
+F:\DNC_2016\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Status_Form.resources
+F:\DNC_2016\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\demo.Properties.Resources.resources
+F:\DNC_2016\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\DNC_2016\复件 dnc_2.4.2\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2_修改版\demos\demo_C#\demo\bin\Debug\demo.exe.config
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2_修改版\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.ResolveComReference.cache
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2_修改版\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2_修改版\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2_修改版\demos\demo_C#\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2_修改版\demos\demo_C#\demo\obj\x86\Debug\demo.Conected_Line.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2_修改版\demos\demo_C#\demo\obj\x86\Debug\demo.frmAddnc.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2_修改版\demos\demo_C#\demo\obj\x86\Debug\demo.frmLogIn.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2_修改版\demos\demo_C#\demo\obj\x86\Debug\demo.frmManageLine.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2_修改版\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Err_Log.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2_修改版\demos\demo_C#\demo\obj\x86\Debug\demo.StatusData_user.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2_修改版\demos\demo_C#\demo\obj\x86\Debug\demo.Title_user.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2_修改版\demos\demo_C#\demo\obj\x86\Debug\demo.TwinCAT_ADS.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2_修改版\demos\demo_C#\demo\obj\x86\Debug\demo.FormMain.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2_修改版\demos\demo_C#\demo\obj\x86\Debug\demo.IpEnter.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2_修改版\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Status_Form.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2_修改版\demos\demo_C#\demo\obj\x86\Debug\demo.Properties.Resources.resources
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2_修改版\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2_修改版\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2_修改版\demos\demo_C#\demo\bin\Debug\demo.exe
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2_修改版\demos\demo_C#\demo\bin\Debug\demo.pdb
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2_修改版\demos\demo_C#\demo\bin\Debug\mysql.visualstudio.dll
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_1\demos\demo_C#\demo\bin\Debug\demo.exe.config
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_1\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.ResolveComReference.cache
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_1\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_1\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_1\demos\demo_C#\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_1\demos\demo_C#\demo\obj\x86\Debug\demo.Conected_Line.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_1\demos\demo_C#\demo\obj\x86\Debug\demo.frmAddnc.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_1\demos\demo_C#\demo\obj\x86\Debug\demo.frmdbPushData.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_1\demos\demo_C#\demo\obj\x86\Debug\demo.frmLogIn.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_1\demos\demo_C#\demo\obj\x86\Debug\demo.frmManageLine.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_1\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Err_Log.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_1\demos\demo_C#\demo\obj\x86\Debug\demo.StatusData_user.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_1\demos\demo_C#\demo\obj\x86\Debug\demo.Title_user.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_1\demos\demo_C#\demo\obj\x86\Debug\demo.TwinCAT_ADS.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_1\demos\demo_C#\demo\obj\x86\Debug\demo.FormMain.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_1\demos\demo_C#\demo\obj\x86\Debug\demo.IpEnter.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_1\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Status_Form.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_1\demos\demo_C#\demo\obj\x86\Debug\demo.Properties.Resources.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_1\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_1\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_1\demos\demo_C#\demo\bin\Debug\demo.exe
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_1\demos\demo_C#\demo\bin\Debug\demo.pdb
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_1\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.dll
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_1\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.xml
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2_2\demos\demo_C#\demo\bin\Debug\demo.exe.config
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2_2\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.ResolveComReference.cache
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2_2\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+F:\learning\VS test\DNC_hz\复件 dnc_2.4.2_2\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_2\demos\demo_C#\demo\bin\Debug\demo.exe.config
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_2\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.ResolveComReference.cache
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_2\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_2\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_2\demos\demo_C#\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_2\demos\demo_C#\demo\obj\x86\Debug\demo.Conected_Line.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_2\demos\demo_C#\demo\obj\x86\Debug\demo.frmAddnc.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_2\demos\demo_C#\demo\obj\x86\Debug\demo.frmdbPushData.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_2\demos\demo_C#\demo\obj\x86\Debug\demo.frmLogIn.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_2\demos\demo_C#\demo\obj\x86\Debug\demo.frmManageLine.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_2\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Err_Log.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_2\demos\demo_C#\demo\obj\x86\Debug\demo.StatusData_user.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_2\demos\demo_C#\demo\obj\x86\Debug\demo.Title_user.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_2\demos\demo_C#\demo\obj\x86\Debug\demo.TwinCAT_ADS.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_2\demos\demo_C#\demo\obj\x86\Debug\demo.FormMain.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_2\demos\demo_C#\demo\obj\x86\Debug\demo.IpEnter.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_2\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Status_Form.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_2\demos\demo_C#\demo\obj\x86\Debug\demo.Properties.Resources.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_2\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_2\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_2\demos\demo_C#\demo\bin\Debug\demo.exe
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_2\demos\demo_C#\demo\bin\Debug\demo.pdb
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_2\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.dll
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_2\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.xml
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.ResolveComReference.cache
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\demo.Conected_Line.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\demo.frmAddnc.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\demo.frmdbPushData.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\demo.frmLogIn.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\demo.frmManageLine.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\demo.frmRealGraph.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Err_Log.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\demo.StatusData_user.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\demo.Title_user.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\demo.TwinCAT_ADS.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\demo.FormMain.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\demo.IpEnter.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Status_Form.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\demo.Properties.Resources.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_3\demos\demo_C#\demo\bin\Debug\demo.exe.config
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_3\demos\demo_C#\demo\bin\Debug\demo.exe
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_3\demos\demo_C#\demo\bin\Debug\demo.pdb
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_3\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.dll
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_3\demos\demo_C#\demo\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_3\demos\demo_C#\demo\bin\Debug\ZedGraph.resources.dll
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_3\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.xml
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_3\demos\demo_C#\demo\bin\Debug\demo.exe.config
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.ResolveComReference.cache
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_3\demos\demo_C#\demo\bin\Debug\demo.exe
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_3\demos\demo_C#\demo\bin\Debug\demo.pdb
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_3\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.dll
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_3\demos\demo_C#\demo\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_3\demos\demo_C#\demo\bin\Debug\ZedGraph.resources.dll
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_3\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.xml
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\demo.Conected_Line.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\demo.frmAddnc.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\demo.frmdbPushData.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\demo.frmLogIn.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\demo.frmManageLine.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\demo.frmRealGraph.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Err_Log.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\demo.StatusData_user.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\demo.Title_user.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\demo.TwinCAT_ADS.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\demo.FormMain.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\demo.IpEnter.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Status_Form.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\demo.Properties.Resources.resources
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\atbr\桌面\复件 dnc_2.4.2_3\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_4\demos\demo_C#\demo\bin\Debug\demo.exe.config
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.ResolveComReference.cache
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_4\demos\demo_C#\demo\bin\Debug\demo.exe
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_4\demos\demo_C#\demo\bin\Debug\demo.pdb
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_4\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.dll
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_4\demos\demo_C#\demo\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_4\demos\demo_C#\demo\bin\Debug\ZedGraph.resources.dll
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_4\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.xml
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\demo.Conected_Line.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\demo.frmAddnc.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\demo.frmdbPushData.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\demo.frmLogIn.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\demo.frmManageLine.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\demo.frmRealGraph.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Err_Log.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\demo.StatusData_user.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\demo.Title_user.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\demo.TwinCAT_ADS.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\demo.FormMain.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\demo.IpEnter.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Status_Form.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\demo.Properties.Resources.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\project\A106文件\dnc_2.4.2_4\demos\demo_C#\demo\bin\Debug\demo.exe.config
+G:\project\A106文件\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.ResolveComReference.cache
+G:\project\A106文件\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+G:\project\A106文件\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+G:\project\A106文件\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\demo.csprojResolveAssemblyReference.cache
+G:\project\A106文件\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\demo.Conected_Line.resources
+G:\project\A106文件\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\demo.frmAddnc.resources
+G:\project\A106文件\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\demo.frmdbPushData.resources
+G:\project\A106文件\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\demo.frmLogIn.resources
+G:\project\A106文件\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\demo.frmManageLine.resources
+G:\project\A106文件\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\demo.frmRealGraph.resources
+G:\project\A106文件\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Err_Log.resources
+G:\project\A106文件\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\demo.StatusData_user.resources
+G:\project\A106文件\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\demo.Title_user.resources
+G:\project\A106文件\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\demo.TwinCAT_ADS.resources
+G:\project\A106文件\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\demo.FormMain.resources
+G:\project\A106文件\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\demo.IpEnter.resources
+G:\project\A106文件\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Status_Form.resources
+G:\project\A106文件\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\demo.Properties.Resources.resources
+G:\project\A106文件\dnc_2.4.2_4\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.GenerateResource.Cache
+G:\project\A106文件\dnc_2.4.2_4\demos\demo_C#\demo\bin\Debug\demo.exe
+G:\project\A106文件\dnc_2.4.2_4\demos\demo_C#\demo\bin\Debug\demo.pdb
+G:\project\A106文件\dnc_2.4.2_4\demos\demo_C#\demo\bin\Debug\ZedGraph.dll
+G:\project\A106文件\dnc_2.4.2_4\demos\demo_C#\demo\bin\Debug\ZedGraph.resources.dll
+G:\project\A106文件\dnc_2.4.2_4\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.xml
+C:\Documents and Settings\atbr\桌面\dnc4.11.1\demo\bin\Debug\demo.exe.config
+C:\Documents and Settings\atbr\桌面\dnc4.11.1\demo\obj\x86\Debug\demo.csproj.ResolveComReference.cache
+C:\Documents and Settings\atbr\桌面\dnc4.11.1\demo\obj\x86\Debug\demo.exe
+C:\Documents and Settings\atbr\桌面\dnc4.11.1\demo\obj\x86\Debug\demo.pdb
+C:\Documents and Settings\atbr\桌面\dnc4.11.1\demo\bin\Debug\demo.exe
+C:\Documents and Settings\atbr\桌面\dnc4.11.1\demo\bin\Debug\demo.pdb
+C:\Documents and Settings\atbr\桌面\dnc4.11.1\demo\bin\Debug\TwinCAT.Ads.dll
+C:\Documents and Settings\atbr\桌面\dnc4.11.1\demo\bin\Debug\TwinCAT.Ads.xml
+C:\Documents and Settings\atbr\桌面\dnc4.11.1\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\atbr\桌面\dnc4.11.1\demo\obj\x86\Debug\demo.Conected_Line.resources
+C:\Documents and Settings\atbr\桌面\dnc4.11.1\demo\obj\x86\Debug\demo.frmAddnc.resources
+C:\Documents and Settings\atbr\桌面\dnc4.11.1\demo\obj\x86\Debug\demo.frmdbPushData.resources
+C:\Documents and Settings\atbr\桌面\dnc4.11.1\demo\obj\x86\Debug\demo.frmLogIn.resources
+C:\Documents and Settings\atbr\桌面\dnc4.11.1\demo\obj\x86\Debug\demo.frmManageLine.resources
+C:\Documents and Settings\atbr\桌面\dnc4.11.1\demo\obj\x86\Debug\demo.frmRealGraph.resources
+C:\Documents and Settings\atbr\桌面\dnc4.11.1\demo\obj\x86\Debug\demo.NC_Err_Log.resources
+C:\Documents and Settings\atbr\桌面\dnc4.11.1\demo\obj\x86\Debug\demo.StatusData_user.resources
+C:\Documents and Settings\atbr\桌面\dnc4.11.1\demo\obj\x86\Debug\demo.Title_user.resources
+C:\Documents and Settings\atbr\桌面\dnc4.11.1\demo\obj\x86\Debug\demo.TwinCAT_ADS.resources
+C:\Documents and Settings\atbr\桌面\dnc4.11.1\demo\obj\x86\Debug\demo.FormMain.resources
+C:\Documents and Settings\atbr\桌面\dnc4.11.1\demo\obj\x86\Debug\demo.IpEnter.resources
+C:\Documents and Settings\atbr\桌面\dnc4.11.1\demo\obj\x86\Debug\demo.NC_Status_Form.resources
+C:\Documents and Settings\atbr\桌面\dnc4.11.1\demo\obj\x86\Debug\demo.Properties.Resources.resources
+C:\Documents and Settings\atbr\桌面\dnc4.11.1\demo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\atbr\桌面\dnc4.11.1\demo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_5\demos\demo_C#\demo\bin\Debug\demo.exe.config
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_5\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.ResolveComReference.cache
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_5\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_5\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_5\demos\demo_C#\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_5\demos\demo_C#\demo\obj\x86\Debug\demo.Conected_Line.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_5\demos\demo_C#\demo\obj\x86\Debug\demo.frmAddnc.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_5\demos\demo_C#\demo\obj\x86\Debug\demo.frmdbPushData.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_5\demos\demo_C#\demo\obj\x86\Debug\demo.frmLogIn.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_5\demos\demo_C#\demo\obj\x86\Debug\demo.frmManageLine.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_5\demos\demo_C#\demo\obj\x86\Debug\demo.frmRealGraph.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_5\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Err_Log.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_5\demos\demo_C#\demo\obj\x86\Debug\demo.StatusData_user.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_5\demos\demo_C#\demo\obj\x86\Debug\demo.Title_user.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_5\demos\demo_C#\demo\obj\x86\Debug\demo.TwinCAT_ADS.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_5\demos\demo_C#\demo\obj\x86\Debug\demo.FormMain.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_5\demos\demo_C#\demo\obj\x86\Debug\demo.IpEnter.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_5\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Status_Form.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_5\demos\demo_C#\demo\obj\x86\Debug\demo.Properties.Resources.resources
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_5\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_5\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_5\demos\demo_C#\demo\bin\Debug\demo.exe
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_5\demos\demo_C#\demo\bin\Debug\demo.pdb
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_5\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.dll
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_5\demos\demo_C#\demo\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_5\demos\demo_C#\demo\bin\Debug\ZedGraph.resources.dll
+C:\Documents and Settings\atbr\桌面\dnc_2.4.2_5\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.xml
+E:\数控代码\dnc_2.4.2_5\demos\demo_C#\demo\bin\Debug\demo.exe.config
+E:\数控代码\dnc_2.4.2_5\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.ResolveComReference.cache
+E:\数控代码\dnc_2.4.2_5\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+E:\数控代码\dnc_2.4.2_5\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+C:\Users\PYJ\Desktop\数控程序\demos\demo_C#\demo\bin\Debug\demo.exe.config
+C:\Users\PYJ\Desktop\数控程序\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.ResolveComReference.cache
+C:\Users\PYJ\Desktop\数控程序\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+C:\Users\PYJ\Desktop\数控程序\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+C:\Users\PYJ\Desktop\数控程序\demos\demo_C#\demo\obj\x86\Debug\demo.Conected_Line.resources
+C:\Users\PYJ\Desktop\数控程序\demos\demo_C#\demo\obj\x86\Debug\demo.frmAddnc.resources
+C:\Users\PYJ\Desktop\数控程序\demos\demo_C#\demo\obj\x86\Debug\demo.frmdbPushData.resources
+C:\Users\PYJ\Desktop\数控程序\demos\demo_C#\demo\obj\x86\Debug\demo.frmLogIn.resources
+C:\Users\PYJ\Desktop\数控程序\demos\demo_C#\demo\obj\x86\Debug\demo.frmManageLine.resources
+C:\Users\PYJ\Desktop\数控程序\demos\demo_C#\demo\obj\x86\Debug\demo.frmRealGraph.resources
+C:\Users\PYJ\Desktop\数控程序\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Err_Log.resources
+C:\Users\PYJ\Desktop\数控程序\demos\demo_C#\demo\obj\x86\Debug\demo.StatusData_user.resources
+C:\Users\PYJ\Desktop\数控程序\demos\demo_C#\demo\obj\x86\Debug\demo.Title_user.resources
+C:\Users\PYJ\Desktop\数控程序\demos\demo_C#\demo\obj\x86\Debug\demo.TwinCAT_ADS.resources
+C:\Users\PYJ\Desktop\数控程序\demos\demo_C#\demo\obj\x86\Debug\demo.FormMain.resources
+C:\Users\PYJ\Desktop\数控程序\demos\demo_C#\demo\obj\x86\Debug\demo.IpEnter.resources
+C:\Users\PYJ\Desktop\数控程序\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Status_Form.resources
+C:\Users\PYJ\Desktop\数控程序\demos\demo_C#\demo\obj\x86\Debug\demo.Properties.Resources.resources
+C:\Users\PYJ\Desktop\数控程序\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.GenerateResource.Cache
+C:\Users\PYJ\Desktop\数控程序\demos\demo_C#\demo\bin\Debug\demo.exe
+C:\Users\PYJ\Desktop\数控程序\demos\demo_C#\demo\bin\Debug\demo.pdb
+C:\Users\PYJ\Desktop\数控程序\demos\demo_C#\demo\bin\Debug\ZedGraph.dll
+C:\Users\PYJ\Desktop\数控程序\demos\demo_C#\demo\bin\Debug\ZedGraph.resources.dll
+C:\Users\PYJ\Desktop\数控程序\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.xml
+E:\数控代码\dnc2.4.2.7\demos\demo_C#\demo\bin\Debug\demo.exe.config
+E:\数控代码\dnc2.4.2.7\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.ResolveComReference.cache
+E:\数控代码\dnc2.4.2.7\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+E:\数控代码\dnc2.4.2.7\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+E:\数控代码\dnc2.4.2.7\demos\demo_C#\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\数控代码\dnc2.4.2.7\demos\demo_C#\demo\obj\x86\Debug\demo.Conected_Line.resources
+E:\数控代码\dnc2.4.2.7\demos\demo_C#\demo\obj\x86\Debug\demo.frmAddnc.resources
+E:\数控代码\dnc2.4.2.7\demos\demo_C#\demo\obj\x86\Debug\demo.frmdbPushData.resources
+E:\数控代码\dnc2.4.2.7\demos\demo_C#\demo\obj\x86\Debug\demo.frmLogIn.resources
+E:\数控代码\dnc2.4.2.7\demos\demo_C#\demo\obj\x86\Debug\demo.frmManageLine.resources
+E:\数控代码\dnc2.4.2.7\demos\demo_C#\demo\obj\x86\Debug\demo.frmRealGraph.resources
+E:\数控代码\dnc2.4.2.7\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Err_Log.resources
+E:\数控代码\dnc2.4.2.7\demos\demo_C#\demo\obj\x86\Debug\demo.StatusData_user.resources
+E:\数控代码\dnc2.4.2.7\demos\demo_C#\demo\obj\x86\Debug\demo.Title_user.resources
+E:\数控代码\dnc2.4.2.7\demos\demo_C#\demo\obj\x86\Debug\demo.TwinCAT_ADS.resources
+E:\数控代码\dnc2.4.2.7\demos\demo_C#\demo\obj\x86\Debug\demo.FormMain.resources
+E:\数控代码\dnc2.4.2.7\demos\demo_C#\demo\obj\x86\Debug\demo.IpEnter.resources
+E:\数控代码\dnc2.4.2.7\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Status_Form.resources
+E:\数控代码\dnc2.4.2.7\demos\demo_C#\demo\obj\x86\Debug\demo.Properties.Resources.resources
+E:\数控代码\dnc2.4.2.7\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\数控代码\dnc2.4.2.7\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\数控代码\dnc2.4.2.7\demos\demo_C#\demo\bin\Debug\demo.exe
+E:\数控代码\dnc2.4.2.7\demos\demo_C#\demo\bin\Debug\demo.pdb
+E:\数控代码\dnc2.4.2.7\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.dll
+E:\数控代码\dnc2.4.2.7\demos\demo_C#\demo\bin\Debug\ZedGraph.dll
+E:\数控代码\dnc2.4.2.7\demos\demo_C#\demo\bin\Debug\ZedGraph.resources.dll
+E:\数控代码\dnc2.4.2.7\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.xml
+E:\数控代码\dnc2.4.2.8\demos\demo_C#\demo\bin\Debug\demo.exe.config
+E:\数控代码\dnc2.4.2.8\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.ResolveComReference.cache
+E:\数控代码\dnc2.4.2.8\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+E:\数控代码\dnc2.4.2.8\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+E:\数控代码\dnc2.4.2.8\demos\demo_C#\demo\bin\Debug\demo.exe
+E:\数控代码\dnc2.4.2.8\demos\demo_C#\demo\bin\Debug\demo.pdb
+E:\数控代码\dnc2.4.2.8\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.dll
+E:\数控代码\dnc2.4.2.8\demos\demo_C#\demo\bin\Debug\ZedGraph.dll
+E:\数控代码\dnc2.4.2.8\demos\demo_C#\demo\bin\Debug\ZedGraph.resources.dll
+E:\数控代码\dnc2.4.2.8\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.xml
+E:\数控代码\dnc2.4.2.8\demos\demo_C#\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\数控代码\dnc2.4.2.8\demos\demo_C#\demo\obj\x86\Debug\demo.Conected_Line.resources
+E:\数控代码\dnc2.4.2.8\demos\demo_C#\demo\obj\x86\Debug\demo.frmAddnc.resources
+E:\数控代码\dnc2.4.2.8\demos\demo_C#\demo\obj\x86\Debug\demo.frmdbPushData.resources
+E:\数控代码\dnc2.4.2.8\demos\demo_C#\demo\obj\x86\Debug\demo.frmLogIn.resources
+E:\数控代码\dnc2.4.2.8\demos\demo_C#\demo\obj\x86\Debug\demo.frmManageLine.resources
+E:\数控代码\dnc2.4.2.8\demos\demo_C#\demo\obj\x86\Debug\demo.frmRealGraph.resources
+E:\数控代码\dnc2.4.2.8\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Err_Log.resources
+E:\数控代码\dnc2.4.2.8\demos\demo_C#\demo\obj\x86\Debug\demo.StatusData_user.resources
+E:\数控代码\dnc2.4.2.8\demos\demo_C#\demo\obj\x86\Debug\demo.Title_user.resources
+E:\数控代码\dnc2.4.2.8\demos\demo_C#\demo\obj\x86\Debug\demo.TwinCAT_ADS.resources
+E:\数控代码\dnc2.4.2.8\demos\demo_C#\demo\obj\x86\Debug\demo.FormMain.resources
+E:\数控代码\dnc2.4.2.8\demos\demo_C#\demo\obj\x86\Debug\demo.IpEnter.resources
+E:\数控代码\dnc2.4.2.8\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Status_Form.resources
+E:\数控代码\dnc2.4.2.8\demos\demo_C#\demo\obj\x86\Debug\demo.Properties.Resources.resources
+E:\数控代码\dnc2.4.2.8\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\数控代码\dnc2.4.2.8\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\数控代码\dnc2.4.2.9\demos\demo_C#\demo\bin\Debug\demo.exe.config
+E:\数控代码\dnc2.4.2.9\demos\demo_C#\demo\bin\Debug\demo.exe
+E:\数控代码\dnc2.4.2.9\demos\demo_C#\demo\bin\Debug\demo.pdb
+E:\数控代码\dnc2.4.2.9\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.dll
+E:\数控代码\dnc2.4.2.9\demos\demo_C#\demo\bin\Debug\ZedGraph.dll
+E:\数控代码\dnc2.4.2.9\demos\demo_C#\demo\bin\Debug\ZedGraph.resources.dll
+E:\数控代码\dnc2.4.2.9\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.xml
+E:\数控代码\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\数控代码\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.ResolveComReference.cache
+E:\数控代码\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.Conected_Line.resources
+E:\数控代码\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.frmAddnc.resources
+E:\数控代码\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.frmdbPushData.resources
+E:\数控代码\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.frmLogIn.resources
+E:\数控代码\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.frmManageLine.resources
+E:\数控代码\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.frmRealGraph.resources
+E:\数控代码\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Err_Log.resources
+E:\数控代码\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.StatusData_user.resources
+E:\数控代码\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.Title_user.resources
+E:\数控代码\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.TwinCAT_ADS.resources
+E:\数控代码\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.FormMain.resources
+E:\数控代码\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.IpEnter.resources
+E:\数控代码\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Status_Form.resources
+E:\数控代码\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.Properties.Resources.resources
+E:\数控代码\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.frmUpdatenc.resources
+E:\数控代码\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\数控代码\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\数控代码\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+E:\数控代码\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+G:\project\A106文件\0各版本程序\dnc2.4.3\dnc2.4.2.9\demos\demo_C#\demo\bin\Debug\demo.exe.config
+G:\project\A106文件\0各版本程序\dnc2.4.3\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.ResolveComReference.cache
+G:\project\A106文件\0各版本程序\dnc2.4.3\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+G:\project\A106文件\0各版本程序\dnc2.4.3\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+G:\project\A106文件\0各版本程序\dnc2.4.3\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.csprojResolveAssemblyReference.cache
+G:\project\A106文件\0各版本程序\dnc2.4.3\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.Conected_Line.resources
+G:\project\A106文件\0各版本程序\dnc2.4.3\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.frmAddnc.resources
+G:\project\A106文件\0各版本程序\dnc2.4.3\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.frmdbPushData.resources
+G:\project\A106文件\0各版本程序\dnc2.4.3\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.frmLogIn.resources
+G:\project\A106文件\0各版本程序\dnc2.4.3\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.frmManageLine.resources
+G:\project\A106文件\0各版本程序\dnc2.4.3\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.frmRealGraph.resources
+G:\project\A106文件\0各版本程序\dnc2.4.3\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Err_Log.resources
+G:\project\A106文件\0各版本程序\dnc2.4.3\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.StatusData_user.resources
+G:\project\A106文件\0各版本程序\dnc2.4.3\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.Title_user.resources
+G:\project\A106文件\0各版本程序\dnc2.4.3\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.TwinCAT_ADS.resources
+G:\project\A106文件\0各版本程序\dnc2.4.3\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.FormMain.resources
+G:\project\A106文件\0各版本程序\dnc2.4.3\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.IpEnter.resources
+G:\project\A106文件\0各版本程序\dnc2.4.3\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Status_Form.resources
+G:\project\A106文件\0各版本程序\dnc2.4.3\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.Properties.Resources.resources
+G:\project\A106文件\0各版本程序\dnc2.4.3\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.frmUpdatenc.resources
+G:\project\A106文件\0各版本程序\dnc2.4.3\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.GenerateResource.Cache
+G:\project\A106文件\0各版本程序\dnc2.4.3\dnc2.4.2.9\demos\demo_C#\demo\bin\Debug\demo.exe
+G:\project\A106文件\0各版本程序\dnc2.4.3\dnc2.4.2.9\demos\demo_C#\demo\bin\Debug\demo.pdb
+G:\project\A106文件\0各版本程序\dnc2.4.3\dnc2.4.2.9\demos\demo_C#\demo\bin\Debug\ZedGraph.dll
+G:\project\A106文件\0各版本程序\dnc2.4.3\dnc2.4.2.9\demos\demo_C#\demo\bin\Debug\ZedGraph.resources.dll
+E:\数控代码\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\bin\Debug\demo.exe.config
+E:\数控代码\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.ResolveComReference.cache
+E:\数控代码\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+E:\数控代码\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+E:\数控代码\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\bin\Debug\demo.exe
+E:\数控代码\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\bin\Debug\demo.pdb
+E:\数控代码\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.dll
+E:\数控代码\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\bin\Debug\ZedGraph.dll
+E:\数控代码\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\bin\Debug\ZedGraph.resources.dll
+E:\数控代码\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.xml
+E:\数控代码\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\数控代码\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.Conected_Line.resources
+E:\数控代码\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.frmAddnc.resources
+E:\数控代码\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.frmdbPushData.resources
+E:\数控代码\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.frmLogIn.resources
+E:\数控代码\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.frmManageLine.resources
+E:\数控代码\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.frmRealGraph.resources
+E:\数控代码\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Err_Log.resources
+E:\数控代码\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.StatusData_user.resources
+E:\数控代码\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.Title_user.resources
+E:\数控代码\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.TwinCAT_ADS.resources
+E:\数控代码\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.FormMain.resources
+E:\数控代码\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.IpEnter.resources
+E:\数控代码\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Status_Form.resources
+E:\数控代码\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.Properties.Resources.resources
+E:\数控代码\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.frmUpdatenc.resources
+E:\数控代码\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\数控代码\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\project\A106文件\0各版本程序\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\bin\Debug\demo.exe.config
+G:\project\A106文件\0各版本程序\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.ResolveComReference.cache
+G:\project\A106文件\0各版本程序\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+G:\project\A106文件\0各版本程序\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+E:\数控代码\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\bin\Debug\demo.exe.config
+E:\数控代码\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.ResolveComReference.cache
+E:\数控代码\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+E:\数控代码\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+E:\数控代码\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\bin\Debug\demo.exe
+E:\数控代码\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\bin\Debug\demo.pdb
+E:\数控代码\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.dll
+E:\数控代码\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\bin\Debug\ZedGraph.dll
+E:\数控代码\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\bin\Debug\ZedGraph.resources.dll
+E:\数控代码\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.xml
+E:\数控代码\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\数控代码\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.Conected_Line.resources
+E:\数控代码\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.frmAddnc.resources
+E:\数控代码\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.frmdbPushData.resources
+E:\数控代码\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.frmLogIn.resources
+E:\数控代码\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.frmManageLine.resources
+E:\数控代码\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.frmRealGraph.resources
+E:\数控代码\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Err_Log.resources
+E:\数控代码\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.StatusData_user.resources
+E:\数控代码\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.Title_user.resources
+E:\数控代码\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.TwinCAT_ADS.resources
+E:\数控代码\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.FormMain.resources
+E:\数控代码\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.IpEnter.resources
+E:\数控代码\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Status_Form.resources
+E:\数控代码\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.Properties.Resources.resources
+E:\数控代码\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.frmUpdatenc.resources
+E:\数控代码\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\数控代码\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\PYJ\Desktop\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\bin\Debug\demo.exe.config
+C:\Users\PYJ\Desktop\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.ResolveComReference.cache
+C:\Users\PYJ\Desktop\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.exe
+C:\Users\PYJ\Desktop\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.pdb
+C:\Users\PYJ\Desktop\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.csprojResolveAssemblyReference.cache
+C:\Users\PYJ\Desktop\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.Conected_Line.resources
+C:\Users\PYJ\Desktop\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.frmAddnc.resources
+C:\Users\PYJ\Desktop\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.frmdbPushData.resources
+C:\Users\PYJ\Desktop\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.frmLogIn.resources
+C:\Users\PYJ\Desktop\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.frmManageLine.resources
+C:\Users\PYJ\Desktop\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.frmRealGraph.resources
+C:\Users\PYJ\Desktop\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Err_Log.resources
+C:\Users\PYJ\Desktop\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.StatusData_user.resources
+C:\Users\PYJ\Desktop\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.Title_user.resources
+C:\Users\PYJ\Desktop\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.TwinCAT_ADS.resources
+C:\Users\PYJ\Desktop\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.FormMain.resources
+C:\Users\PYJ\Desktop\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.IpEnter.resources
+C:\Users\PYJ\Desktop\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.NC_Status_Form.resources
+C:\Users\PYJ\Desktop\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.Properties.Resources.resources
+C:\Users\PYJ\Desktop\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.frmUpdatenc.resources
+C:\Users\PYJ\Desktop\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\obj\x86\Debug\demo.csproj.GenerateResource.Cache
+C:\Users\PYJ\Desktop\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\bin\Debug\demo.exe
+C:\Users\PYJ\Desktop\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\bin\Debug\demo.pdb
+C:\Users\PYJ\Desktop\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\bin\Debug\ZedGraph.dll
+C:\Users\PYJ\Desktop\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\bin\Debug\ZedGraph.resources.dll
+C:\Users\PYJ\Desktop\dnc2.4.4.2\dnc2.4.4.1\dnc2.4.2.9\demos\demo_C#\demo\bin\Debug\TwinCAT.Ads.xml

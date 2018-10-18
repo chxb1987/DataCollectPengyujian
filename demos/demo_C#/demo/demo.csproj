@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2E382DEF-4DB7-485B-92DA-667E05FC32FC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>demo</RootNamespace>
+    <AssemblyName>demo</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="HncNetData">
+      <HintPath>C:\Users\Administrator\Desktop\HncNetData.dll</HintPath>
+    </Reference>
+    <Reference Include="HncNetDll, Version=0.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\hncSaaS\DataAgent\DataAgent\DLL\HncNetDll.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="mysql.data, Version=6.6.7.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\buaa course resourse\项目文件20150703A106新版\20160511文献\mysql-connector-net-6.6.7-noinstall\tmp\v4\mysql.data.dll</HintPath>
+    </Reference>
+    <Reference Include="mysql.data.entity, Version=6.6.7.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\buaa course resourse\项目文件20150703A106新版\20160511文献\mysql-connector-net-6.6.7-noinstall\tmp\v4\mysql.data.entity.dll</HintPath>
+    </Reference>
+    <Reference Include="mysql.visualstudio">
+      <HintPath>..\..\..\..\..\..\..\buaa course resourse\项目文件20150703A106新版\20160511文献\mysql-connector-net-6.6.7-noinstall\tmp\v4\mysql.visualstudio.dll</HintPath>
+    </Reference>
+    <Reference Include="mysql.web, Version=6.6.7.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\buaa course resourse\项目文件20150703A106新版\20160511文献\mysql-connector-net-6.6.7-noinstall\tmp\v4\mysql.web.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TwinCAT.Ads">
+      <HintPath>C:\TwinCAT\ADS Api\.NET\v2.0.50727\TwinCAT.Ads.dll</HintPath>
+    </Reference>
+    <Reference Include="ZedGraph">
+      <HintPath>..\..\..\graphdll\ZedGraph.dll</HintPath>
+    </Reference>
+    <Reference Include="ZedGraph.resources">
+      <HintPath>..\..\..\graphdll\ZedGraph.resources.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="datastruct\CGlbFunc.cs" />
+    <Compile Include="Conected_Line.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Conected_Line.Designer.cs">
+      <DependentUpon>Conected_Line.cs</DependentUpon>
+    </Compile>
+    <Compile Include="datastruct\DataBase.cs" />
+    <Compile Include="datastruct\Data_Identity_info.cs" />
+    <Compile Include="datastruct\Data_regist_info.cs" />
+    <Compile Include="datastruct\Gcode.cs" />
+    <Compile Include="datastruct\GskApi.cs" />
+    <Compile Include="datastruct\HtApi.cs" />
+    <Compile Include="datastruct\TwincatGet.cs" />
+    <Compile Include="datastruct\Userclass.cs" />
+    <Compile Include="frmAddnc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddnc.Designer.cs">
+      <DependentUpon>frmAddnc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmdbPushData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmdbPushData.Designer.cs">
+      <DependentUpon>frmdbPushData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogIn.Designer.cs">
+      <DependentUpon>frmLogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmManageLine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManageLine.Designer.cs">
+      <DependentUpon>frmManageLine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="datastruct\GjApi.cs" />
+    <Compile Include="frmRealGraph.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRealGraph.Designer.cs">
+      <DependentUpon>frmRealGraph.cs</DependentUpon>
+    </Compile>
+    <Compile Include="usercontrol\NC_Err_Log.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="usercontrol\NC_Err_Log.Designer.cs">
+      <DependentUpon>NC_Err_Log.cs</DependentUpon>
+    </Compile>
+    <Compile Include="datastruct\WebSreverce_PostJson.cs" />
+    <Compile Include="datastruct\Queue.cs" />
+    <Compile Include="usercontrol\StatusData_user.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="usercontrol\StatusData_user.Designer.cs">
+      <DependentUpon>StatusData_user.cs</DependentUpon>
+    </Compile>
+    <Compile Include="usercontrol\Title_user.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="usercontrol\Title_user.Designer.cs">
+      <DependentUpon>Title_user.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TwinCAT_ADS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TwinCAT_ADS.Designer.cs">
+      <DependentUpon>TwinCAT_ADS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="datastruct\HncApi.cs" />
+    <Compile Include="IpEnter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IpEnter.designer.cs">
+      <DependentUpon>IpEnter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NC_Status_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NC_Status_Form.Designer.cs">
+      <DependentUpon>NC_Status_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="datastruct\Real_status.cs" />
+    <Compile Include="datastruct\Data_Err_info.cs" />
+    <Compile Include="datastruct\Data_LogIn_info.cs" />
+    <Compile Include="datastruct\Data_Run_info.cs" />
+    <Compile Include="datastruct\Data_Env_info.cs" />
+    <Compile Include="datastruct\Data_json.cs" />
+    <Compile Include="frmUpdatenc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUpdatenc.Designer.cs">
+      <DependentUpon>frmUpdatenc.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Conected_Line.resx">
+      <DependentUpon>Conected_Line.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddnc.resx">
+      <DependentUpon>frmAddnc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmdbPushData.resx">
+      <DependentUpon>frmdbPushData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogIn.resx">
+      <DependentUpon>frmLogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManageLine.resx">
+      <DependentUpon>frmManageLine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRealGraph.resx">
+      <DependentUpon>frmRealGraph.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="usercontrol\NC_Err_Log.resx">
+      <DependentUpon>NC_Err_Log.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="usercontrol\StatusData_user.resx">
+      <DependentUpon>StatusData_user.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="usercontrol\Title_user.resx">
+      <DependentUpon>Title_user.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TwinCAT_ADS.resx">
+      <DependentUpon>TwinCAT_ADS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IpEnter.resx">
+      <DependentUpon>IpEnter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NC_Status_Form.resx">
+      <DependentUpon>NC_Status_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="frmUpdatenc.resx">
+      <DependentUpon>frmUpdatenc.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Winter.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1b91faae654c0f3e31f6163c8e198890.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8cb1cb13495409238ec11a549058d109b3de496b.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\banner.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\top_01.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

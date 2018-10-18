@@ -1,0 +1,21 @@
+
+
+//轴信息
+struct AXIS_INFO
+{
+	double Abs_Coord[NET_AXIS_NUM];//绝对坐标
+	double Rel_Coord[NET_AXIS_NUM];//相对坐标
+	double Mac_Coord[NET_AXIS_NUM];//机床坐标
+	double Addi_Coord[NET_AXIS_NUM];//剩余距离
+	double Frd;
+
+	int Spd;
+	int F;//进给
+	int S;//转速!
+	int J;//快速倍率
+	double ActiveAxisSpeed[NET_AXIS_NUM];	//各轴实际分速度	
+};
+
+增加最后一个轴速度变量.
+
+812参数设为18

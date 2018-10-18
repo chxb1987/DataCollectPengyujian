@@ -1,0 +1,68 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace demo
+{
+    class Gcode
+    {
+        public static  string[] gcode ={
+        "O6666",
+"N10 S1500 M03",
+"G4 X299",
+"M05",
+"G4 X4",
+"S1500 M04",
+"G4 X299",
+"M05",
+"G4 X4",
+"S2700 M03",
+"G4 X4",
+"S3000",
+"G4 X4",
+"S2700",
+"G4 X4",
+"M05",
+"G4 X4",
+"S2700 M04",
+"G4 X4",
+"S3000",
+"G4 X4",
+"S2700",
+"G4 X4",
+"M05",
+"G4 X4",
+"G90 G00 X0 Y0 Z-50",
+"G17 G01 X212.2 Y212.2 S1500 M03 G94 F60",
+"X0 Y0",
+"G00 X0 Y50 Z0",
+"G18 G01 X212.2 Z212.2 S1500 M04 G94 F60",
+"X0 Z0",
+"G00 X50 Y0 Z0",
+"G19 G01 Y212.2 Z212.2 S1500 M03 G94 F60",
+"Y0 Z0",
+"M05",
+"G90 G00 X100 Y100 Z-50 S1500 M03",
+"G02 G17 X100 Y0 R50 G94 F62.8",
+"G02 G17 X100 Y100 R50",
+"G03 G17 X100 Y0 R50",
+"G03 G17 X100 Y100 R50",
+"G90 G00 X100 Y50 Z100 S1500 M04",
+"G02 G18 X0 Z100 R50 G94 F62.8",
+"G02 G18 X100 Z100 R50",
+"G03 G18 X0 Z100 R50",
+"G03 G18 X100 Z100 R50",
+"G90 G00 X50 Y100 Z100 S1500 M03",
+"G02 G19 Y100 Z0 R50 G94 F62.8",
+"G02 G19 Y100 Z100 R50",
+"G03 G19 Y100 Z0 R50",
+"G03 G19 Y100 Z100 R50",
+"M05",
+"G4 X60",
+"M99"
+    };
+
+
+    }
+}
